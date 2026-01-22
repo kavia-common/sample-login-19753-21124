@@ -1,0 +1,8 @@
+{
+  "name": "sample-frontend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": { "build": "ng build", "start": "ng serve --host 0.0.0.0" },
+  "dependencies": { "@angular/core": "^16.0.0" },
+  "devDependencies": { "@angular/cli": "^16.0.0", "typescript": "4.9.5" }
+}
